@@ -9,6 +9,7 @@ const messages = [
   'Para realizar una acción positiva hay que mantener una visión positiva (Dalai Lama)',
   'Cada misión noble parece imposible en un principio (Thomas Carlye)',
   'No llores porque se terminó, sonríe porque sucedió (Dr. Seuss)',
+  'Lo que nunca va a volver es lo que hace de la vida algo dulce (Emily Dickinson)',
   'No me avergüenza decirte que creo en los milagros (Corazón Aquino)',
   'Puedes hacerlo, deberías hacerlo, y si eres lo suficientemente valiente como para empezar, lo harás (Stephen King)',
 ];
