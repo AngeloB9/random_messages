@@ -1,6 +1,6 @@
 {
   "name": "random-messages-ab9",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It is a package built and published in NPM; It is a random of messages",
   "main": "src/index.js",
   "scripts": {
