@@ -17,6 +17,10 @@
   ],
   "author": "Angelo Benavidez <benavidezangelo9@gmail.com>",
   "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
   "bugs": {
     "url": "https://github.com/AngeloB9/random_messages/issues"
   },
