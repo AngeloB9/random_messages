@@ -5,7 +5,7 @@ It is a package built and published in NPM; It is a random of messages
 ## Install
 
 ```npm
-npm install -g random-msg
+npm install -g random-msg-ab9
 ```
 
 # Usage
