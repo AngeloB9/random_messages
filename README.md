@@ -11,7 +11,7 @@ npm install -g random-msg-ab9
 # Usage
 
 ```bash
-random-msg
+random-msg-ab9
 ```
 
 # Contributing
@@ -20,4 +20,4 @@ If someone wants to add or improve something, I invite you to collaborate direct
 
 # License
 
-random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
+random-msg-ab9 is released under the [MIT License](https://opensource.org/licenses/MIT).
