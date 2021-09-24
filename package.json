@@ -15,7 +15,7 @@
     "node",
     "npm"
   ],
-  "author": "Angelo Benavidez <benavidezangelo9@gmail.com>",
+  "author": "Angelo Benavidez",
   "license": "MIT",
   "bin": {
     "random-msg": "./bin/global.js"
